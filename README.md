@@ -29,8 +29,8 @@
 
 To login website use:
 
-`username:` admin@example.com<br />
-`password:` admin<br />
+`username:` admin@stylefeathers.com<br />
+`password:` admin123<br />
 
 ## Available Scripts
 
